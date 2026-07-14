@@ -1,0 +1,127 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #D7F7E1; 
+    text-align: center;
+
+}
+
+/* STYLE TEXT */
+body2{
+  color: #9935BD;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+}
+/*intro.*/
+body3{
+  font-size: 25px;
+line-height: 1.5;
+  text-align: center;
+}
+body4{
+  font-size: 25px;
+line-height: 1.5;
+  text-align: left;
+} 
+/*Cybersecurity club explanation*/
+main{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+h1 {
+  color: #DE725D;
+}
+h2{
+  font-size: 35px;
+}
+/* bullet points*/
+h3{
+  color: #404FB3;
+  font-size: 50px;
+}
+/*Cybersecurity club*/
+h4{
+  font-size: 68px;
+  text-align: center;
+}
+/*My clubs*/
+p{
+color: #D9506E;
+font-size: 25px;
+line-height: 1.5;
+text-align: center;
+}
+/*About my project*/
+header2{
+  color: #23BA53;
+    font-size: 50px;
+}
+/*Badminton club*/
+header{
+  font-family: "Poppins", geometric sans-serif;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  margin: 1px;
+}
+/*Title*/
+header3{
+  font-weight: 900;
+  font-size: 45px;
+}
+/*Welcome to my little world*/
+header4{
+  font-size: 35px;
+  text-align: center;
+}
+/*My hobbies*/
+header5{
+  font-size: 150px;
+  text-align: center;
+}
+/*My project*/
+
+/* STYLE IMAGES */
+
+img{
+  max-height: 250px;
+  image
+  padding: 1px solid green;
+}
+
+.round{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+#squareRound{
+  border-radius: 20%;
+}
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #D08C96;
+  overflow: hidden;
+  padding: 1m;
+}
+li{
+  display: inline;
+}
+li a{
+  color: #000000;
+  text-decoration: none;
+}
+a{
+  color: #000000
+}
+li a:hover{
+  background-color: #FCFCFC;
+}
